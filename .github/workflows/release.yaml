@@ -2,7 +2,7 @@ jobs:
   build:
     outputs:
       distro: "${{ steps.distro_check.outputs.distro }}"
-    runs-on: "ubuntu-latest"
+    runs-on: "ubuntu-24.04-arm"
     steps:
     - name: "Checkout"
       uses: "actions/checkout@v4"
