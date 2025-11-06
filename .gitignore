@@ -22,3 +22,17 @@
 
 # intel-corporation.edk2code extension file
 /.edkCode
+
+# MacOS files
+.DS_Store
+.AppleDouble
+.LSOverride
+.AppleDB
+.AppleDesktop
+.apdisk
+.AppleDB
+.AppleDesktop
+.apdisk
+.AppleDB
+.AppleDesktop
+.apdisk
